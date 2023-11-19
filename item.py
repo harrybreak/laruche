@@ -1,4 +1,4 @@
-from enchant import *
+from exceptions import *
 
 class Item:
     def __init__(self, name:str, price:float = 0.0):

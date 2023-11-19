@@ -1,4 +1,5 @@
 from item import *
+from enchant import *
 
 class Economy:
     def __init__(self, filename:str):
