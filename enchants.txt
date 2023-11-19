@@ -1,0 +1,38 @@
+Mending,me,1,3000
+Flame,fl,1,2000
+Infinity,in,1,2000
+Silk Touch,st,1,2000
+Channeling,ch,1,2000
+Multishot,mu,1,2000
+Aqua Affinity,aa,1,2000
+Curse of Binding,cb,1,-1000
+Curse of Vanishing,cv,1,-100
+Frost Walker,fw,2,2000
+Knockback,kn,2,2000
+Punch,pu,2,2000
+Fire Aspect,fa,2,2000
+Loyalty,loy,3,2000
+Riptide,ri,3,2000
+Quick Charge,qc,3,2000
+Looting,loo,3,2000
+Luck of the Sea,ls,3,2000
+Lure,lu,3,2000
+Soul Speed,so,3,2000
+Swift Sneak,sw,3,2000
+Sweeping Edge,se,3,2000
+Respiration,re,3,2000
+Thorns,th,3,2000
+Fortune,fo,3,2000
+Unbreaking,un,3,2500
+Depth Strider,ds,3,2000
+Protection,pr,4,2000
+Projectile Protection,pp,4,2000
+Blast Protection,bp,4,2000
+Fire Protection,fp,4,2000
+Feather Falling,ff,4,2000
+Piercing,pi,4,2000
+Sharpness,sh,5,2000
+Efficiency,ef,5,2000
+Impaling,im,5,2000
+Smite,sm,5,2000
+Bane of Arthropods,ba,5,2000

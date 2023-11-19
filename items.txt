@@ -1,0 +1,149 @@
+# Here are the definition of user raw material prices
+Oak Log,3
+Birch Log,2
+Acacia Log,5
+Jungle Log,3
+Spruce Log,2
+Dark Oak Log,2
+Cherry Log,6
+Crimson Log,4
+Mangrove Log,6
+Warped Log,6
+Iron Ingot,1
+Coal,1
+Diamond,60
+Copper,2
+Gold Ingot,1.5
+Flint,2
+Emerald,2
+Redstone Dust,3
+Lapis Lazuli,3
+Amethyst Shard,5
+Netherite Stroop,500
+Netherite Ingot,3000
+Netherite Upgrade Raw,1000
+Quartz,1
+Clay,1
+Calcite,2
+Cobblestone,0.5
+Sand,0.5
+Gravel,0.5
+Dirt,0.5
+Grass Block,0.5
+Netherrack,0.5
+Andesite,1
+Granite,1
+Diorite,1
+End Stone,1
+Cobbled Deepslate,1
+Wheat,2
+Cocoa Beans,3
+Potato,0.5
+Carrot,0.5
+Pumpkin,1
+Watermelon Block,1
+Beetroot,2
+Sugar Cane,1
+Kelp,1
+Bamboo,0.5
+Egg,1
+Glow Berry,0.5
+Sweet Berry,0.5
+Honeycomb,2
+Honey Bottle,3
+Feather,1
+Cactus,0.5
+Chorus Fruit,2
+Sponge,20
+Cake,20
+Apple,5
+Prismarine Shard,2
+Prismarine Crystal,2
+Raw Cod,3
+Raw Salmon,3
+Pufferfish,4
+Clown Fish,5
+Raw Chicken,2
+Raw Porkchop,2
+Raw Beef,2
+Raw Sheep,3
+Raw Rabbit,4
+Wool,2
+Zombie,5000
+Creeper Head,5000
+Skeleton Head,5000
+Dragon Head,7500
+Wither Head,150
+Nether Star,150
+Nether Wart,0.5
+Blackstone,2
+Soul Sand,1
+Soul Soil,1
+Blaze Rod,2
+Glowstone Dust,2
+End Rod,5
+Echo Shard,8
+Notch Apple,5000
+Ink,1
+Glowing Ink,1
+Cobweb,10
+Shulker Shell,10
+Phantom Membrane,5
+Golden Apple,6
+# Here are the remaining free raw materials
+# Here are the crafts
+Spruce Planks,Spruce Log:0.25
+Stick,Spruce Planks:0.5
+Chest,Spruce Planks:8
+Acacia Planks,Acacia Log:0.25
+Acacia Boat,Acacia Planks:5
+Acacia Boat with Chest,Acacia Boat:1,Chest:1
+Acacia Button,Acacia Planks:1
+Acacia Door,Acacia Planks:6
+Acacia Fence,Acacia Planks:4,Stick:2
+Diamond Shovel,Diamond:1,Stick:2
+Diamond Pickaxe,Diamond:3,Stick:2
+Diamond Axe,Diamond:3,Stick:2
+Diamond Boots,Diamond:4
+Diamond Chestplate,Diamond:8
+Diamond Helmet,Diamond:5
+Diamond Hoe,Diamond:2,Stick:2
+Diamond Horse Armor,Diamond:6
+Diamond Leggings,Diamond:7
+Diamond Sword,Diamond:2,Stick:1
+Gold Nugget,Gold Ingot:0.11
+Golden Axe,Gold Ingot:3,Stick:2
+Golden Boots,Gold Ingot:4
+Golden Carrot,Gold Nugget:8,Carrot:1
+Golden Chestplate,Gold Ingot:8
+Golden Helmet,Gold Ingot:5
+Golden Hoe,Gold Ingot:2,Stick:2
+Golden Horse Armor,Gold Ingot:6
+Golden Leggings,Gold Ingot:7
+Golden Pickaxe,Gold Ingot:3,Stick:2
+Golden Shovel,Gold Ingot:1,Stick:2
+Golden Sword,Gold Ingot:2,Stick:1
+Iron Nugget,Iron Ingot:0.11
+Iron Axe,Iron Ingot:3,Stick:2
+Iron Boots,Iron Ingot:4
+Iron Chestplate,Iron Ingot:8
+Iron Door,Iron Ingot:2
+Iron Helmet,Iron Ingot:5
+Iron Hoe,Iron Ingot:2,Stick:2
+Iron Horse Armor,Iron Ingot:6
+Iron Leggings,Iron Ingot:7
+Iron Pickaxe,Iron Ingot:3,Stick:2
+Iron Shovel,Iron Ingot:1,Stick:2
+Iron Sword,Iron Ingot:2,Stick:1
+Iron Trapdoor,Iron Ingot:6
+Netherite Upgrade,Netherite Upgrade Raw:1,Netherrack:1,Diamond:7
+Netherite Axe,Netherite Upgrade:1,Netherite Ingot:1,Diamond Axe:1
+Netherite Boots,Netherite Upgrade:1,Netherite Ingot:1,Diamond Boots:1
+Netherite Chestplate,Netherite Upgrade:1,Netherite Ingot:1,Diamond Chestplate:1
+Netherite Helmet,Netherite Upgrade:1,Netherite Ingot:1,Diamond Helmet:1
+Netherite Hoe,Netherite Upgrade:1,Netherite Ingot:1,Diamond Hoe:1
+Netherite Leggings,Netherite Upgrade:1,Netherite Ingot:1,Diamond Leggings:1
+Netherite Pickaxe,Netherite Upgrade:1,Netherite Ingot:1,Diamond Pickaxe:1
+Netherite Shovel,Netherite Upgrade:1,Netherite Ingot:1,Diamond Shovel:1
+Netherite Sword,Netherite Upgrade:1,Netherite Ingot:1,Diamond Sword:1
+Note Block,Redstone Dust:1,Chest:1
